@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trần Quốc Cường</h1>
+<h1 align="center">Hi 👋, I'm Vinh </h1>
 <h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
@@ -11,13 +11,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/tranquoccuong107" target="_blank">
+    <a href="https://www.facebook.com/bi.vinh.505" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tranquoccuong107" style="height: 30px; width: 30px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/cuongtrandevbe" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="cuongtrandevbe" style="height: 30px; width: 30px; object-fit: cover;" />
-    </a>
+  
+   
 </p>
 
 
@@ -32,32 +30,12 @@
           <br>Java
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-          <br>Spring
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
-          <br>C#
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-          <br>.NET
-      </td>
-      <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
           <br>TypeScript
       </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
           <br>React
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-          <br>jQuery
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-          <br>Rest API
       </td>
     </tr>
     <tr>
@@ -72,14 +50,6 @@
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
           <br>GitHub
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-          <br>Docker
-      </td>
-      <td align="center" width="96">
-          <img src="https://ps.w.org/redis-cache/assets/icon-128x128.gif?rev=2568513" width="48" height="48" alt="Redis" />
-          <br>Redis
       </td>
       <td align="center" width="96">
           <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBtaDFudHZkcjVzYnNwbDdjaXMydGZvN3c2MWljODd2d2x6Yzh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tAjb5pyCEBhEb8jWxC/giphy.gif" width="48" height="48" alt="MongoDB" />
